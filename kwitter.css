@@ -1,0 +1,17 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  background-color:cyan;
+}
+
+body {
+  background-color: cadetblue;
+  text-align: center;
+}
+#blah {
+    width: 500px;
+}
+.info {
+  margin-left: 50px;
+}
